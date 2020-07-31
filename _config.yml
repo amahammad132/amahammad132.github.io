@@ -27,6 +27,7 @@ twitter_username: jekyllrb
 github_username:  amahammad132
 
 # Build settings
+
 # theme: minima
 # theme: jekyll-theme-midnight
 # remote_theme: melangue/dactl
@@ -38,6 +39,9 @@ github:
 
 theme: jekyll-theme-slate
 # theme: tocttou/hacker-blog
+
+# theme: jekyll-theme-modernist
+
 plugins:
   - jekyll-feed
 
